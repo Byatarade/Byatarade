@@ -13,9 +13,6 @@ Hay, I'm Byatara a student of software engineering State Vocational HighSchool 6
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claveora&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=claveora&icon=0&color=0)](https://visitcount.itsvg.in)
+" Selesaikan apa yang kamu mulai ~Byan "
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

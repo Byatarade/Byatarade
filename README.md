@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Byatara, a software engineering student at State Vocational High School 6 Surakarta.
+- Hi, my name is Byatara. I'm currently studying software engineering at State Vocational High School 6 Surakarta.
+
 
 
 ## 🌐 Socials:

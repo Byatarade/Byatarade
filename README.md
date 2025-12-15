@@ -37,7 +37,7 @@ Welcome! I'm a software engineering student at State Vocational High School 6 Su
 
 ## 🚀 Featured Projects
 
-- [Project Title — Repo link](#https://github.com/claveora/WEB-OSINTRA) — Short 1–2 line description: what it does, tech used, why it's interesting.
+- [Project Title](#https://github.com/claveora/WEB-OSINTRA)
 - Title: OSINTRA
   Repo: https://github.com/claveora/WEB-OSINTRA 
   Description: A small web development. Built with React, TailwindCSS, and Laravel.  

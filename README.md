@@ -9,9 +9,8 @@ Welcome! I'm a software engineering student at State Vocational High School 6 Su
 
 ## 💫 About Me
 - Name: Byatara  
-- Role: Software Engineering Student at State Vocational High School 6 Surakarta  
-- Currently learning: practical software engineering, web development, and algorithms  
-- Pronouns: (please tell me if you want these shown)
+- Role: Software Engineering Student at State Vocational High School 6 Surakarta.
+- Currently learning: software engineering and web development.
 
 ---
 
@@ -37,16 +36,11 @@ Welcome! I'm a software engineering student at State Vocational High School 6 Su
 ---
 
 ## 🚀 Featured Projects
-Add your favorite projects here and I will convert them into nice cards with links, tech tags, and screenshots.
 
-- [Project Title — Repo link](#) — Short 1–2 line description: what it does, tech used, why it's interesting.
-- [Project Title — Repo link](#) — Short 1–2 line description.
-
-Example card layout you can fill in:
-- Title: MyCoolApp  
-  Repo: https://github.com/yourusername/mycoolapp  
-  Description: A small web app to manage tasks. Built with React, TailwindCSS, and Firebase.  
-  Screenshot: (optional image URL)
+- [Project Title — Repo link](#https://github.com/claveora/WEB-OSINTRA) — Short 1–2 line description: what it does, tech used, why it's interesting.
+- Title: OSINTRA
+  Repo: https://github.com/claveora/WEB-OSINTRA 
+  Description: A small web development. Built with React, TailwindCSS, and Laravel.  
 
 ---
 
@@ -71,7 +65,6 @@ Example card layout you can fill in:
 
 ## ⚡ Fun Facts
 - I study at State Vocational High School 6 Surakarta and enjoy building small apps and learning new languages.
-- Add any hobbies or fun facts you want showcased (music, sports, travel, etc.).
 
 ---
 

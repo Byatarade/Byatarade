@@ -1,5 +1,4 @@
 # Hi, I'm Byatara 👋
-
 ![Website](https://img.shields.io/badge/Student-Software%20Engineering-blue?style=for-the-badge)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b__ytra)
 
@@ -9,38 +8,56 @@ Welcome! I'm a software engineering student at State Vocational High School 6 Su
 
 ## 💫 About Me
 - Name: Byatara  
-- Role: Software Engineering Student at State Vocational High School 6 Surakarta.
-- Currently learning: software engineering and web development.
+- Role: Software Engineering Student at State Vocational High School 6 Surakarta
+- Currently learning: Software engineering and web development
+- Location: Cikarang, West Java, Indonesia
 
 ---
 
 ## 💻 Tech Stack
+
+### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+### Tools & IDEs
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkwxMiAyMkwyMiAxMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMgM0wyMSAyMU0zIDIxTDIxIDMiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPgo8L3N2Zz4=&logoColor=white)
+![Augment](https://img.shields.io/badge/Augment-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
+### Databases & Deployment
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-- [Project Title](#https://github.com/claveora/WEB-OSINTRA)
-- Title: OSINTRA
-  Repo: https://github.com/claveora/WEB-OSINTRA 
-  Description: A small web development. Built with React, TailwindCSS, and Laravel.  
+### OSINTRA
+**Repository:** [github.com/claveora/WEB-OSINTRA](https://github.com/claveora/WEB-OSINTRA)  
+**Description:** A small web development project built with React, TailwindCSS, and Laravel  
+**Tech Stack:** React • TailwindCSS • Laravel
 
 ---
 
@@ -50,22 +67,27 @@ Welcome! I'm a software engineering student at State Vocational High School 6 Su
 
 ---
 
-## 📫 Get in touch
-- Instagram: [@b__ytra](https://instagram.com/b__ytra)   
-- Website / Portfolio: byan.vercel.app 
+## 📫 Get in Touch
+- 📷 Instagram: [@b__ytra](https://instagram.com/b__ytra)   
+- 🌐 Portfolio: [byan.vercel.app](https://byan.vercel.app)
+- 📧 Feel free to reach out for collaborations!
 
 ---
 
 ## 🎯 Goals & Availability
-- Open to: Collaborations, learning partnerships, and school projects  
-- Interested in: Web development, competitive programming, and UI design  
-- Mentorship: (Maybe)
+- 🤝 Open to: Collaborations, learning partnerships, and school projects  
+- 💡 Interested in: Web development, competitive programming, and UI design  
+- 🌱 Always learning: New frameworks, tools, and best practices
+- 👨‍🏫 Mentorship: Available for peer learning
 
 ---
 
 ## ⚡ Fun Facts
-- I study at State Vocational High School 6 Surakarta and enjoy building small apps and learning new languages.
+- 🏫 Studying at State Vocational High School 6 Surakarta
+- 💻 Enjoy building small apps and experimenting with new technologies
+- 🎨 Love creating clean and intuitive user interfaces
+- 🚀 Passionate about learning and sharing knowledge
 
 ---
 
-Thank you for visiting — feel free to say hi or open an issue on my profile repo if you'd like to collaborate!
+💙 Thank you for visiting! Feel free to say hi or open an issue on my repos if you'd like to collaborate!

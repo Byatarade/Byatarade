@@ -10,7 +10,7 @@ Welcome! I'm a software engineering student at State Vocational High School 6 Su
 - Name: Byatara  
 - Role: Software Engineering Student at State Vocational High School 6 Surakarta
 - Currently learning: Software engineering and web development
-- Location: Surakarta, West Java, Indonesia
+- Location: Surakarta, Central Java, Indonesia
 
 ---
 

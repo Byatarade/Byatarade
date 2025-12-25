@@ -66,8 +66,6 @@ Welcome! I'm a software engineering student at State Vocational High School 6 Su
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claveora&layout=compact&theme=default)
-![Stats](https://github-readme-stats.vercel.app/api?username=claveora&show_icons=true&theme=default)
-
 ---
 
 ## 📫 Get in Touch

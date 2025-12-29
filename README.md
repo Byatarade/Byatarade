@@ -84,12 +84,6 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 <div align="center">
 
   <h3>📊 My GitHub Statistics</h3>
-  
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=claveora&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=79c0ff&count_private=true&include_all_commits=true&card_width=500" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claveora&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=79c0ff&langs_count=10" alt="Top Languages" />
 
 </div>
 

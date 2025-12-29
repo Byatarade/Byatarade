@@ -81,22 +81,10 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 ### 📈 GitHub Stats
 
-<div align="center">
-
-  <h3>📊 My GitHub Statistics</h3>
-
-</div>
-
 <!-- Activity Graph -->
 <div align="center">
   <h3>📈 Contribution Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=claveora&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&point=79c0ff&line=58a6ff" alt="GitHub Activity" width="100%" />
-</div>
-
-<!-- Streak Stats -->
-<div align="center">
-  <h3>🔥 Streak Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=claveora&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff7b54&currStreakNum=58a6ff&currStreakLabel=79c0ff&sideNums=58a6ff&sideLabels=79c0ff&dates=58a6ff&border=0d1117" alt="GitHub Streak" />
 </div>
 
 <!-- Summary Badges -->

@@ -79,18 +79,39 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 ---
 
-### 📈 GitHub Statistics
+### 📈 GitHub Stats
 
 <div align="center">
+
+  <h3>📊 My GitHub Statistics</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=claveora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="170" alt="Byatara's GitHub Stats" />
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=claveora&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=79c0ff&count_private=true&include_all_commits=true&card_width=500" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claveora&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=79c0ff&langs_count=10" alt="Top Languages" />
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <h3>📈 Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=claveora&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&point=79c0ff&line=58a6ff" alt="GitHub Activity" width="100%" />
+</div>
+
+<!-- Streak Stats -->
+<div align="center">
+  <h3>🔥 Streak Stats</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=claveora&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff7b54&currStreakNum=58a6ff&currStreakLabel=79c0ff&sideNums=58a6ff&sideLabels=79c0ff&dates=58a6ff&border=0d1117" alt="GitHub Streak" />
+</div>
+
+<!-- Summary Badges -->
+<div align="center">
+  <h3>📌 Quick Summary</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claveora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Byatara's Top Languages" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=claveora&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=claveora&color=0d1117&style=flat-square&label=Profile+Views)
+  ![GitHub followers](https://img.shields.io/github/followers/claveora?style=flat-square&color=0d1117&labelColor=58a6ff&textColor=white)
+  ![Total Commits](https://img.shields.io/badge/Total_Commits-Dynamic-0d1117?style=flat-square&labelColor=58a6ff&textColor=white)
 </div>
 
 ---

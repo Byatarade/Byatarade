@@ -75,8 +75,6 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 | :--- | :--- | :--- |
 | **OSINTRA** | A web project built to streamline organizational data. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 
-> **View Repository:** [github.com/claveora/WEB-OSINTRA](https://github.com/claveora/WEB-OSINTRA)
-
 ---
 
 ### 📈 GitHub Stats

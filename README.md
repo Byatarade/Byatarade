@@ -8,7 +8,7 @@
 
   <br/><br/>
 
-  <a href="https://instagram.com/b__ytra">
+  <a href="https://instagram.com/byataradev">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://byan.vercel.app">

@@ -35,37 +35,33 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 <div align="left">
 
-#### 🌐 Frontend & Design
-*Menciptakan pengalaman visual yang interaktif dan responsif.*
-<br/>
+#### 🛠️ Programming Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,java,kotlin,python&theme=dark" />
 </a>
 
 <br/>
 
-#### ⚙️ Backend & Database
-*Membangun arsitektur yang solid dan manajemen data yang efisien.*
-<br/>
+#### 🚀 Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,kotlin,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,astro,tailwind,bootstrap,wordpress&theme=dark" />
 </a>
 
 <br/>
 
-#### 🧪 Specialized & Animation
-*Memberikan sentuhan detail dan animasi modern.*
-<br/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+#### 📚 Libraries & UI Kits
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/SweetAlert2-7952B3?style=for-the-badge&logo=javascript&logoColor=white" />
+</div>
 
 <br/>
 
-#### 🛠️ Tools & Deployment
-<br/>
+#### ⚙️ Tools, DB & Deployment
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,mysql,git,github,vercel,netlify&theme=dark" />
 </a>
 
 </div>

@@ -33,34 +33,40 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 ### 💻 Tech Stack
 
-<div align="center">
+<div align="left">
 
-  **Programming Languages**<br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,kotlin,php,html,css&perline=7" />
-  </a>
-  
-  <br/><br/>
+#### 🌐 Frontend & Design
+*Menciptakan pengalaman visual yang interaktif dan responsif.*
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,figma&theme=dark" />
+</a>
 
-  **Frameworks & Libraries**<br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,laravel,astro,tailwind,bootstrap,wordpress&perline=7" />
-  </a>
+<br/>
 
-  <br/><br/>
+#### ⚙️ Backend & Database
+*Membangun arsitektur yang solid dan manajemen data yang efisien.*
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,kotlin,java&theme=dark" />
+</a>
 
-  **Tools, Databases & Deployment**<br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma,mysql,netlify,vercel&perline=8" />
-  </a>
+<br/>
 
-  <br/><br/>
+#### 🧪 Specialized & Animation
+*Memberikan sentuhan detail dan animasi modern.*
+<br/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 
-  **Specialized Libraries & Animation**<br/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/SweetAlert2-7952B3?style=flat-square&logo=javascript&logoColor=white" />
+<br/>
+
+#### 🛠️ Tools & Deployment
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,vercel,netlify&theme=dark" />
+</a>
 
 </div>
 

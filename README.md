@@ -8,7 +8,7 @@
 
   <br/><br/>
 
-  <a href="https://instagram.com/byataradev">
+  <a href="https://instagram.com/byatarade">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/claveora">

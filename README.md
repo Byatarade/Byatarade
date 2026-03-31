@@ -11,7 +11,7 @@
   <a href="https://instagram.com/byatarade">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/claveora">
+  <a href="https://github.com/byatarade">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 

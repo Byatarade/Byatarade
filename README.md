@@ -76,22 +76,6 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <h3>📈 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=claveora&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&point=79c0ff&line=58a6ff" alt="GitHub Activity" width="100%" />
-</div>
-
-<div align="center">
-  <h3>📌 Quick Summary</h3>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=claveora&color=0d1117&style=flat-square&label=Profile+Views)
-  ![GitHub followers](https://img.shields.io/github/followers/claveora?style=flat-square&color=0d1117&labelColor=58a6ff&textColor=white)
-</div>
-
----
-
 ### 📫 Get in Touch
 - 📷 Instagram: [@b__ytra](https://instagram.com/b__ytra)
 - 🤝 Open for collaborations and school-related projects!

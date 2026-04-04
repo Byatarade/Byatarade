@@ -77,7 +77,7 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 ---
 
 ### 📫 Get in Touch
-- 📷 Instagram: [@b__ytra](https://instagram.com/b__ytra)
+- 📷 Instagram: [@byatarade](https://instagram.com/byatarade)
 - 🤝 Open for collaborations and school-related projects!
 
 <div align="center">

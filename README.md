@@ -14,6 +14,12 @@
   <a href="https://github.com/byatarade">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/byatarade">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:byatarade@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
 
 </div>
 
@@ -37,7 +43,7 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 #### 🛠️ Programming Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,java,kotlin,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,kotlin,python&theme=dark" />
 </a>
 
 <br/>
@@ -78,6 +84,8 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 ### 📫 Get in Touch
 - 📷 Instagram: [@byatarade](https://instagram.com/byatarade)
+- 💼 LinkedIn: [Byatara](https://www.linkedin.com/in/byatarade)
+- 📧 Email: [byatarade@gmail.com](mailto:byatarade@gmail.com)
 - 🤝 Open for collaborations and school-related projects!
 
 <div align="center">

@@ -42,9 +42,12 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 <div align="left">
 
 #### 🛠️ Programming Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,kotlin,python&theme=dark" />
-</a>
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,kotlin,python&theme=dark" alt="Skills" />
+  </a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="48" style="vertical-align: middle; margin-bottom: 7px;" />
+</div>
 
 <br/>
 

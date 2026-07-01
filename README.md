@@ -96,6 +96,7 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **OSINTRA** | A web project built to streamline organizational data. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **OtakEncer** | An AI-powered platform that transforms various media types into structured learning materials to make studying easier. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 ---
 

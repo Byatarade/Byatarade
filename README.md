@@ -100,6 +100,13 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 ---
 
+<div align="center">
+  <h3>🐍 GitHub Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/byatarade/byatarade/output/github-contribution-grid-snake.svg" alt="Github Showcase Snake" />
+</div>
+
+<br/>
+
 ### 📫 Get in Touch
 - 📷 Instagram: [@byatarade](https://instagram.com/byatarade)
 - 💼 LinkedIn: [Byatara](https://www.linkedin.com/in/byatarade)

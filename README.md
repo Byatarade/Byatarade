@@ -91,7 +91,7 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Portofolio
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |

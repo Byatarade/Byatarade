@@ -66,7 +66,7 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 <br/>
 
-#### 📚 Libraries & UI Kits
+#### 📚 Libraries
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />

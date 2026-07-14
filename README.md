@@ -32,7 +32,6 @@ Welcome! I'm a software engineering student at **State Vocational High School 6 
 
 - 🔭 **Currently working on:** Enhancing my web development skills.
 - 📍 **Based in:** Surakarta, Central Java, Indonesia.
-- 🌱 **Learning:** React, Next.js, Laravel, and Modern Animation Libraries.
 - ⚡ **Fun Fact:** I enjoy creating clean layouts and experimenting with new interactive design tools.
 
 ---

@@ -22,8 +22,12 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Membuat animasi ular berdasarkan kontribusi user
-      - name: generate github-contribution-grid-snake.svg
+      # 1. Checkout repository agar runner memiliki akses ke workspace
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Membuat animasi ular berdasarkan kontribusi user
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -31,9 +35,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      # Menaruh hasilnya ke branch bernama 'output' agar bisa di-load di README
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # 3. Menaruh hasilnya ke branch bernama 'output' agar bisa di-load di README
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
